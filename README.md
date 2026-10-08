@@ -19,14 +19,14 @@ I am an **Analytical Researcher & Data Specialist** working at the unique inters
 
 Whether I am auditing high-volume enterprise transaction ledgers or building public safety risk-mitigation dashboards, I treat raw data as a landscape for deep structural discovery.
 
-When I'm not writing code or analyzing data pipelines, I am an avid collector of Hot Wheels and love building complex LEGO architectures—hobbies that fuel my passion for structural design, meticulous layout, and detailed organization.
+When I'm not writing code or analyzing data pipelines, I am an avid collector of Hot Wheels and love building complex LEGO architectures— hobbies that fuel my passion for structural design, meticulous layout, and detailed organization.
 
 ---
 
 ## 🛠️ Technical Skillset & Frameworks
 
-*   **Database Engineering:** SQL (PostgreSQL), PGadmin, Relational Table Architecture
-*   **Business Intelligence & DataViz:** Power BI Dashboard Design, Custom DAX Calculations, Data Modeling, UI/UX Layouts
+*   **Database Engineering:** SQL (PostgreSQL), Relational Table Architecture
+*   **Business Intelligence & DataViz:** Power BI Dashboard Design, Custom DAX Calculations, Data Modeling
 *   **Advanced Analytics:** Microsoft Excel (Power Query ETL, Power Pivot, Relational Models, Macros, Formatting)
 *   **Systems Workflow:** VS Code, Git/GitHub, Technical Documentation Writing
 
